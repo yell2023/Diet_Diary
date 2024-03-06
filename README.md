@@ -40,7 +40,7 @@
   - 원하는 특정 날짜의 모든 기록 조회
 
 ## ERD 
-![ERD](doc/img/erd.png)
+![ERD](doc/img/Diet_Diary.png)
 
 ## Trouble Shooting
 [go to the trouble shooting section](doc/TROUBLE_SHOOTING.md)
